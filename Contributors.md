@@ -202,6 +202,7 @@
 - [Siam] (https://github.com/siam-codes)
 - [Atirek Goyal](https://github.com/atirek89)
 - [Augustine Chiu](https://github.com/achiu283)
+- [Arya](https://github.com/Arya101005)
 - [AvAdiii](https://github.com/AvAdiii)
 - [Ava16](https://github.com/Ava16)
 - [AvatarG](https://github.com/AvatarG)
